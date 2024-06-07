@@ -10,4 +10,4 @@ Este repositório representa a implementação de um aplicativo que converte tex
 
 ## Aplicativo
 Veja, na imagem abaixo, o funcionamento do aplicativo:
-![Imagem Tutorial](Text-to-Speech-with-.NET-MAUI/Text-to-Speech/Text_to_Speech_App.png)
+![Imagem Tutorial](Text-to-Speech/Text_to_Speech_App.png)
