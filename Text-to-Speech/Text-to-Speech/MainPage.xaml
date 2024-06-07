@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Text_to_Speech.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Editor
+                x:Name="EditorText"
+                AutoSize="TextChanges"
+                Placeholder="Digite seu texto aqui..."
+                VerticalOptions="StartAndExpand"
+                HorizontalOptions="FillAndExpand"
+                Margin="10"
+                HeightRequest="200"/>
+
+            <Slider x:Name="SpeedSlider"
+                Minimum="-10.0"
+                Maximum="10.0"
+                Value="0.0"
+                VerticalOptions="Center"
+                WidthRequest="500"/>
+
+            <Button x:Name="Speak_Button"
+                    Text="Fale o Texto"
+                    Margin="10"
+                    Clicked="Speak_Button_Clicked"
+                    HorizontalOptions="Fill"/>
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
