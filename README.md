@@ -1,2 +1,4 @@
 # Text-to-Speech with .NET-MAUI
-This repository represents the implementation of a Text-to-Speech Application with the .NET MAUI framework.
+
+Este repositório representa a implementação de um aplicativo que converte texto para fala (Text-to-Speech). A aplicação foi programada com auxilio do framework do .NET MAUI. 
+
