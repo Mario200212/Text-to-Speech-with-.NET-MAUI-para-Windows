@@ -4,7 +4,7 @@ Este repositório é um tutorial de implementação de um aplicativo que convert
 
 ## Índice
 - [Aplicativo](#Aplicativo)
-- [Uso](#uso)
+- [Tutorial](#Tutorial)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 
@@ -18,3 +18,4 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 
 ![Imagem Tutorial](Text_to_Speech_App.png)
 
+##Tutorial
