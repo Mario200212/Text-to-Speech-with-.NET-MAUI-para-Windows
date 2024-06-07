@@ -19,7 +19,10 @@ namespace Text_to_Speech
             int Speed = (int)SpeedSlider.Value;
             rdr.Rate = Speed;
             string texto = EditorText.Text;
-            rdr.SpeakAsync(texto);
+            if(texto!=null)
+            {
+                rdr.SpeakAsync(texto);
+            }
         }
 
         private void Speak_Button_Clicked(object sender, EventArgs e)
