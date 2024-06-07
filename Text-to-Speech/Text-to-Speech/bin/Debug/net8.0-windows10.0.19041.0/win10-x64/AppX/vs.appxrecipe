@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\madur\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-07T02:10:58.558</Modified>
+      <Modified>2024-06-07T14:57:34.274</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\madur\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Text-to-Speech.dll">
       <PackagePath>Text-to-Speech.dll</PackagePath>
-      <Modified>2024-06-07T02:10:58.061</Modified>
+      <Modified>2024-06-07T14:57:32.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\madur\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Text-to-Speech.exe</PackagePath>
-      <Modified>2024-06-07T02:10:58.070</Modified>
+      <Modified>2024-06-07T14:57:32.779</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\madur\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

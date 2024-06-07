@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Text-to-Speech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+93ad4162473cb345558270db66592db0afa088a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b5b1d6b476d127c53c67cb545fbf5c2e970db0af")]
 [assembly: System.Reflection.AssemblyProductAttribute("Text-to-Speech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Text-to-Speech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

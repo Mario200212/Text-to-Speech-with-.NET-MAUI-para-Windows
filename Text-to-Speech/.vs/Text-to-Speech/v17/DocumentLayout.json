@@ -46,8 +46,7 @@
               "RelativeToolTip": "Text-to-Speech\\AppShell.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-07T00:07:20.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T00:07:20.732Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Text-to-Speech\\AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:07:19.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T00:07:19.208Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Text-to-Speech\\MauiProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T00:07:11.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T00:07:11.889Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "Text-to-Speech\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\madur\\OneDrive\\Documentos\\GitHub\\Text-to-Speech-with-.NET-MAUI\\Text-to-Speech\\Text-to-Speech\\MainPage.xaml.cs",
               "RelativeToolTip": "Text-to-Speech\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T00:05:03.522Z",
               "EditorCaption": ""
@@ -96,7 +93,7 @@
               "RelativeDocumentMoniker": "Text-to-Speech\\MainPage.xaml",
               "ToolTip": "C:\\Users\\madur\\OneDrive\\Documentos\\GitHub\\Text-to-Speech-with-.NET-MAUI\\Text-to-Speech\\Text-to-Speech\\MainPage.xaml",
               "RelativeToolTip": "Text-to-Speech\\MainPage.xaml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAnAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-06T23:52:09.721Z",
               "EditorCaption": ""
