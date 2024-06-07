@@ -16,5 +16,5 @@ O aplicativo de Text-to Speech possui a seguinte estrutura:
 
 Veja, na imagem abaixo, o funcionamento do aplicativo:
 
-![Imagem Tutorial](Text-to-Speech/Text_to_Speech_App.png)
+![Imagem Tutorial](Text_to_Speech_App.png)
 
