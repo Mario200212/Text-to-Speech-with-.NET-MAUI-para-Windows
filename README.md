@@ -15,5 +15,6 @@ O aplicativo de Text-to Speech possui a seguinte estrutura:
   - Botão, o qual inicia a síntese de fala.
 
 Veja, na imagem abaixo, o funcionamento do aplicativo:
+
 ![Imagem Tutorial](Text-to-Speech/Text_to_Speech_App.png)
 
