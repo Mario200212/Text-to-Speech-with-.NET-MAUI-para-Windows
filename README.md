@@ -63,9 +63,9 @@ Veja abaixo o código  XAML utilizado para a criação da interface de usuário 
 ### Tabela de explicação:
 | Componente XAML   | Função no código   |
 |------------|------------|
-| <VerticalStackLayout>| Organiza os elementos que estão dentro desta componente de tal forma que fiquem um embaixo do outro |
-| <Editor/>| Adiciona o campo de texto na interface |
-| <Slider/>| Adiciona o Slider de controle de velocidade na interface| 
-| <Button/>| Adiciona o botão "Fale o Texto" na interface| 
+| VerticalStackLayout| Organiza os elementos que estão dentro desta componente de tal forma que fiquem um embaixo do outro |
+| Editor| Adiciona o campo de texto na interface |
+| Slider| Adiciona o Slider de controle de velocidade na interface| 
+| Button| Adiciona o botão "Fale o Texto" na interface| 
 
 Olá
