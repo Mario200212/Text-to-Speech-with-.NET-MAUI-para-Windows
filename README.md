@@ -9,6 +9,7 @@ Este repositório é um tutorial de implementação de um aplicativo que convert
 - [Licença](#licença)
 
 ## Aplicativo
+
 O aplicativo de Text-to Speech possui a seguinte estrutura:
   - Campo de Texto, onde o usuário deve digitar seu texto;
   - Slider de velocidades, que controla a velocidade de fala;
@@ -19,6 +20,7 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 ![Imagem Tutorial](Text_to_Speech_App.png)
 
 ## Tutorial
+
 ### Criando a interface no arquivo MainPage.xaml
 
 Veja abaixo o código  XAML utilizado para a criação da interface de usuário do aplicativo:
@@ -61,6 +63,7 @@ Veja abaixo o código  XAML utilizado para a criação da interface de usuário 
 </ContentPage>
 ```
 ### Tabela de explicação:
+
 | Componente XAML   | Função no código   |
 |------------|------------|
 | VerticalStackLayout| Organiza os elementos que estão dentro desta componente de tal forma que fiquem um embaixo do outro |
