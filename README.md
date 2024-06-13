@@ -21,9 +21,9 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 
 ## Tutorial
 
-> ### Criando a interface no arquivo MainPage.xaml:
+### Criando a interface no arquivo MainPage.xaml:
 
->> Veja abaixo o código  XAML utilizado para a criação da interface de usuário do aplicativo:
+> Veja abaixo o código  XAML utilizado para a criação da interface de usuário do aplicativo:
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
@@ -62,7 +62,7 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 
 </ContentPage>
 ```
->> ### Tabela de explicação:
+> ### Tabela de explicação:
 
 | Componente XAML   | Função no código   |
 |------------|------------|
@@ -71,10 +71,10 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 | Slider| Adiciona o Slider de controle de velocidade na interface| 
 | Button| Adiciona o botão "Fale o Texto" na interface| 
 
-> ## Criando a lógica do programa no arquivo MainPage.xaml.cs:
+ ## Criando a lógica do programa no arquivo MainPage.xaml.cs:
 
 ```csharp
-  using System.Speech.Synthesis;
+using System.Speech.Synthesis;
 namespace Text_to_Speech
 {
     public partial class MainPage : ContentPage
