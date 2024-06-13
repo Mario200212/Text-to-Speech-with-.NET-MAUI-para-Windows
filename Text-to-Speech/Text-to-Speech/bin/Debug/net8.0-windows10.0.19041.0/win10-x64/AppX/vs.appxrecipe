@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\marce\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-07T22:17:58.961</Modified>
+      <Modified>2024-06-13T20:47:58.303</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\marce\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-06-07T22:16:28.584</Modified>
+      <Modified>2024-06-13T20:12:19.815</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Text-to-Speech.runtimeconfig.json">
       <PackagePath>Text-to-Speech.runtimeconfig.json</PackagePath>
-      <Modified>2024-06-07T22:16:28.143</Modified>
+      <Modified>2024-06-13T20:12:19.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Text-to-Speech.dll">
       <PackagePath>Text-to-Speech.dll</PackagePath>
-      <Modified>2024-06-07T22:17:57.659</Modified>
+      <Modified>2024-06-13T20:47:56.896</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Text-to-Speech.exe</PackagePath>
-      <Modified>2024-06-07T22:17:57.715</Modified>
+      <Modified>2024-06-13T20:47:56.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -287,7 +287,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce\OneDrive\Documentos\GitHub\Text-to-Speech-with-.NET-MAUI\Text-to-Speech\Text-to-Speech\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Text-to-Speech.deps.json">
       <PackagePath>Text-to-Speech.deps.json</PackagePath>
-      <Modified>2024-06-07T22:16:27.974</Modified>
+      <Modified>2024-06-13T20:12:19.233</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\marce\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -1,6 +1,4 @@
-﻿using Microsoft.Maui.Platform;
-using System.Reflection;
-using System.Speech.Synthesis;
+﻿using System.Speech.Synthesis;
 namespace Text_to_Speech
 {
     public partial class MainPage : ContentPage
