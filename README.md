@@ -142,5 +142,5 @@ namespace Text_to_Speech
 ```
 ## Referências
 
-A implementação do Text-To-Speech no Windows neste aplicativo só foi possível graças a este site: [Visite o GitHub](https://github.com)
+A implementação do Text-To-Speech no Windows neste aplicativo só foi possível graças a este site: [Visite o Site](https://sstut.com/csharpdotnet/windows-text-to-speech.php)
 
