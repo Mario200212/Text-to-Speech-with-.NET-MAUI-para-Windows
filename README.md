@@ -72,7 +72,41 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 | Button| Adiciona o botão "Fale o Texto" na interface| 
 
  ## Criando a lógica do programa no arquivo MainPage.xaml.cs:
-
+> Importando o pacote necessário para o Text-To-Speech:
+```csharp
+using System.Speech.Synthesis;
+```
+> Criando um objeto do tipo SpeechSynthesizer no construtor da classe MainPage:
+```csharp
+SpeechSynthesizer rdr;
+public MainPage()
+{
+     InitializeComponent();
+     rdr = new SpeechSynthesizer();
+}
+```
+> Criando a função que faz o Text-To-Speech falar o que está escrito na entrada do usuário:
+```csharp
+public void SpeakSettings()
+{
+      rdr.SpeakAsyncCancelAll();
+      int Speed = (int)SpeedSlider.Value;
+      rdr.Rate = Speed;
+      string texto = EditorText.Text;
+      if(texto!=null)
+      {
+           rdr.SpeakAsync(texto);
+      }
+}
+```
+> Criando a função que é ativada com o clique do botão:
+```csharp
+private void Speak_Button_Clicked(object sender, EventArgs e)
+{
+      SpeakSettings();
+}
+```
+> Veja abaixo o código completo:
 ```csharp
 using System.Speech.Synthesis;
 namespace Text_to_Speech
