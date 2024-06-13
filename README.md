@@ -21,7 +21,7 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 
 ## Tutorial
 
-> ### Criando a interface no arquivo MainPage.xaml
+> ### Criando a interface no arquivo MainPage.xaml:
 
 >> Veja abaixo o código  XAML utilizado para a criação da interface de usuário do aplicativo:
 ```xml
@@ -67,8 +67,44 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 | Componente XAML   | Função no código   |
 |------------|------------|
 | VerticalStackLayout| Organiza os elementos que estão dentro desta componente de tal forma que fiquem um embaixo do outro |
-| Editor| Adiciona o campo de texto na interface |
+| Editor| Adiciona o campo de entrada de texto na interface |
 | Slider| Adiciona o Slider de controle de velocidade na interface| 
 | Button| Adiciona o botão "Fale o Texto" na interface| 
 
+> ## Criando a lógica do programa no arquivo MainPage.xaml.cs:
+
+```csharp
+  using System.Speech.Synthesis;
+namespace Text_to_Speech
+{
+    public partial class MainPage : ContentPage
+    {
+
+        SpeechSynthesizer rdr;
+        public MainPage()
+        {
+            InitializeComponent();
+            rdr = new SpeechSynthesizer();
+        }
+
+        public void SpeakSettings()
+        {
+            rdr.SpeakAsyncCancelAll();
+            int Speed = (int)SpeedSlider.Value;
+            rdr.Rate = Speed;
+            string texto = EditorText.Text;
+            if(texto!=null)
+            {
+                rdr.SpeakAsync(texto);
+            }
+        }
+
+        private void Speak_Button_Clicked(object sender, EventArgs e)
+        {
+            SpeakSettings();
+        }
+    }
+}
+
+```
 
