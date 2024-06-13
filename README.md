@@ -142,5 +142,5 @@ namespace Text_to_Speech
 ```
 ## Referências
 
-A implementação do Text-To-Speech no Windows neste aplicativo só foi possível graças a este site: [Clique Aqui Para Acessar o Site]([URL](https://sstut.com/csharpdotnet/windows-text-to-speech.php#:~:text=To%20increase%20or%20decrease%20the%20text-to-speech%20speed%2C%20change,slow%20rdr.Rate%20%3D%C2%A0%2010%3B%20%2F%2F%20fastest%20speed%2C%20incomprehensible)) 
+A implementação do Text-To-Speech no Windows neste aplicativo só foi possível graças a este site: [Visite o GitHub](https://github.com)
 
