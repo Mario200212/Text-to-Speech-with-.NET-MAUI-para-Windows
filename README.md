@@ -20,6 +20,8 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 
 ## Tutorial
 ### Criando a interface no arquivo MainPage.xaml
+
+Veja abaixo o código  XAML utilizado para a criação da interface de usuário do aplicativo:
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
@@ -57,5 +59,13 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
     </ScrollView>
 
 </ContentPage>
-
 ```
+### Tabela de explicação:
+| Componente XAML   | Função no código   |
+|------------|------------|
+| <VerticalStackLayout>| Organiza os elementos que estão dentro desta componente de tal forma que fiquem um embaixo do outro |
+| <Editor/>| Adiciona o campo de texto na interface |
+| <Slider/>| Adiciona o Slider de controle de velocidade na interface| 
+| <Button/>| Adiciona o botão "Fale o Texto" na interface| 
+
+Olá
