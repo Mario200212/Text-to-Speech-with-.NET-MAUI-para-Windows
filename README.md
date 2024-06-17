@@ -74,7 +74,7 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 > Instalando o pacote System.Speech:
 No Menu superior do Visual Studio clique em "Projeto" => "Gerenciar Pacotes do Nuget".
 Após esse passo, instale o pacote System.Speech:
-![image](https://github.com/Mario200212/Text-to-Speech-with-.NET-MAUI-para-Windows/assets/98231075/eb060940-78bd-4f94-a172-3ada0ef2d935)
+![image](Captura de tela 2024-06-16 210525.png)
 
 > Importando o pacote necessário para o Text-To-Speech:
 ```csharp
