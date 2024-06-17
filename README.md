@@ -72,7 +72,8 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 
  
 ## Instalando o pacote System.Speech:
-No Menu superior do Visual Studio clique em "Projeto" => "Gerenciar Pacotes do Nuget". Após esse passo, instale o pacote System.Speech:
+> No Menu superior do Visual Studio clique em "Projeto" => "Gerenciar Pacotes do Nuget".
+>  Após esse passo, instale o pacote System.Speech:
 ![Imagem de Instalacao](Instalacao.png)
 ## Criando a lógica do programa no arquivo MainPage.xaml.cs:
 > Importando o pacote necessário para o Text-To-Speech:
