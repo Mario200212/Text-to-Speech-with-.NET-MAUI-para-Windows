@@ -71,6 +71,11 @@ Veja, na imagem abaixo, o funcionamento do aplicativo:
 | Button| Adiciona o botão "Fale o Texto" na interface| 
 
  ## Criando a lógica do programa no arquivo MainPage.xaml.cs:
+> Instalando o pacote System.Speech:
+No Menu superior do Visual Studio clique em "Projeto" => "Gerenciar Pacotes do Nuget".
+Após esse passo, instale o pacote System.Speech:
+![image](https://github.com/Mario200212/Text-to-Speech-with-.NET-MAUI-para-Windows/assets/98231075/eb060940-78bd-4f94-a172-3ada0ef2d935)
+
 > Importando o pacote necessário para o Text-To-Speech:
 ```csharp
 using System.Speech.Synthesis;
